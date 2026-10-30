@@ -1,6 +1,9 @@
-<!-- Banner escuro gerado por serviço externo; não requer arquivo de imagem no repositório. -->
+<!-- Salve a arte fornecida em assets/banner-tecnologia.jpg no repositório. -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,50:173B5E,100:00C2D1&height=210&section=header&text=Waldemir%20Botelho&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Consultoria%20em%20Infraestrutura%20e%20Tecnologia&descSize=17&descAlignY=57" width="100%" alt="Banner de Waldemir Botelho" />
+  <img src="./assets/banner-tecnologia.jpg" width="100%" alt="Ilustração futurística de redes, nuvem e infraestrutura de servidores" />
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,50:173B5E,100:00C2D1&height=125&section=header&text=Waldemir%20Botelho&fontSize=34&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Consultoria%20em%20Infraestrutura%20e%20Tecnologia&descSize=14&descAlignY=70" width="100%" alt="Cabeçalho animado de Waldemir Botelho" />
 </div>
 
 <div align="center">
