@@ -28,51 +28,53 @@ Com mais de duas décadas de experiência em tecnologia, lidero a **W. B. Soluç
 
 ---
 
-### 🧑‍💻 Desenvolvimento
+### 🧰 Tecnologias e habilidades
 
-<!-- Passe o mouse sobre cada ícone para ver a descrição. Os rótulos alternativos
-continuam disponíveis para leitores de tela e quando as imagens não carregarem. -->
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30" height="30" alt="Java" title="Java — desenvolvimento de aplicações" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++" title="C++ — programação" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="30" height="30" alt="PHP" title="PHP — desenvolvimento web" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30" alt="Python" title="Python — desenvolvimento e automação" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript" title="JavaScript — desenvolvimento web" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="30" height="30" alt="Angular" title="Angular — aplicações web" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" height="30" alt="HTML5" title="HTML5 — estrutura de páginas web" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" height="30" alt="CSS3" title="CSS3 — apresentação de páginas web" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="30" height="30" alt="jQuery" title="jQuery — biblioteca JavaScript" />
-</p>
-
-### 🖥️ Infraestrutura e plataformas
-
-<p>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" title="Windows — administração de sistemas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30" height="30" alt="Linux" title="Linux — administração de sistemas e servidores" />
-  <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware" title="VMware — virtualização" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" title="Docker — containers" />
-  <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="Apache" title="Apache — serviços web" />
-</p>
-
-### 🗄️ Bancos de dados
-
-<p>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" title="SQL Server — administração, configuração, manutenção e migração" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Database" title="Oracle — administração de banco de dados" />
-  <img src="https://img.shields.io/badge/PL%2FSQL-5B6ABF?style=flat-square" alt="PL/SQL" title="PL/SQL — programação para bancos de dados Oracle" />
-</p>
-
-### 🌐 Redes e segurança
-
-<p>
-  <img src="https://img.shields.io/badge/LAN%2FWAN%2FVPN-3451B2?style=flat-square" alt="LAN, WAN e VPN" title="Redes LAN, WAN e VPN — implantação, administração e suporte" />
-  <img src="https://img.shields.io/badge/DNS%2FBIND-4B6EAF?style=flat-square" alt="DNS e BIND" title="DNS/BIND — configuração e administração de nomes de domínio" />
-  <img src="https://img.shields.io/badge/DHCP-2673B8?style=flat-square" alt="DHCP" title="DHCP — configuração de endereçamento de rede" />
-  <img src="https://img.shields.io/badge/SSH-343434?style=flat-square" alt="SSH" title="SSH — acesso e administração remota segura" />
-  <img src="https://img.shields.io/badge/SNMP-6A4C93?style=flat-square" alt="SNMP" title="SNMP — monitoramento e gerenciamento de rede" />
-  <img src="https://img.shields.io/badge/Firewalls%20%7C%20Seguran%C3%A7a-C0392B?style=flat-square" alt="Firewalls e segurança de redes" title="Segurança de redes — firewalls, VPNs e proteção de ambientes" />
-</p>
+<!-- Passe o mouse nos ícones para consultar a descrição. -->
+<table border="0" frame="void" rules="none" cellpadding="8" cellspacing="0" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td border="0" valign="top" width="58%" style="border: none;">
+      <h4>Desenvolvimento</h4>
+      <p>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30" height="30" alt="Java" title="Java — desenvolvimento de aplicações" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++" title="C++ — programação" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="30" height="30" alt="PHP" title="PHP — desenvolvimento web" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30" alt="Python" title="Python — desenvolvimento e automação" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript" title="JavaScript — desenvolvimento web" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="30" height="30" alt="Angular" title="Angular — aplicações web" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30" height="30" alt="HTML5" title="HTML5 — estrutura de páginas web" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" height="30" alt="CSS3" title="CSS3 — apresentação de páginas web" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="30" height="30" alt="jQuery" title="jQuery — biblioteca JavaScript" />
+      </p>
+      <h4>Infraestrutura e plataformas</h4>
+      <p>
+        <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&amp;logo=windows&amp;logoColor=white" alt="Windows" title="Windows — administração de sistemas" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30" height="30" alt="Linux" title="Linux — administração de sistemas e servidores" />
+        <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&amp;logo=vmware&amp;logoColor=white" alt="VMware" title="VMware — virtualização" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" title="Docker — containers" />
+        <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&amp;logo=apache&amp;logoColor=white" alt="Apache" title="Apache — serviços web" />
+      </p>
+      <h4>Bancos de dados</h4>
+      <p>
+        <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&amp;logo=microsoftsqlserver&amp;logoColor=white" alt="Microsoft SQL Server" title="SQL Server — administração, configuração, manutenção e migração" />
+        <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&amp;logo=oracle&amp;logoColor=white" alt="Oracle Database" title="Oracle — administração de banco de dados" />
+        <img src="https://img.shields.io/badge/PL%2FSQL-5B6ABF?style=flat-square" alt="PL/SQL" title="PL/SQL — programação para bancos de dados Oracle" />
+      </p>
+      <h4>Redes e segurança</h4>
+      <p>
+        <img src="https://img.shields.io/badge/LAN%2FWAN%2FVPN-3451B2?style=flat-square" alt="LAN, WAN e VPN" title="Redes LAN, WAN e VPN — implantação, administração e suporte" />
+        <img src="https://img.shields.io/badge/DNS%2FBIND-4B6EAF?style=flat-square" alt="DNS e BIND" title="DNS/BIND — configuração e administração de nomes de domínio" />
+        <img src="https://img.shields.io/badge/DHCP-2673B8?style=flat-square" alt="DHCP" title="DHCP — configuração de endereçamento de rede" />
+        <img src="https://img.shields.io/badge/SSH-343434?style=flat-square" alt="SSH" title="SSH — acesso e administração remota segura" />
+        <img src="https://img.shields.io/badge/SNMP-6A4C93?style=flat-square" alt="SNMP" title="SNMP — monitoramento e gerenciamento de rede" />
+        <img src="https://img.shields.io/badge/Firewalls%20%7C%20Seguran%C3%A7a-C0392B?style=flat-square" alt="Firewalls e segurança de redes" title="Segurança de redes — firewalls, VPNs e proteção de ambientes" />
+      </p>
+    </td>
+    <td border="0" valign="middle" width="42%" align="center" style="border: none;">
+      <img src="./assets/hello-world-code.gif" width="360" alt="Animação de código Python sendo digitado e executado, exibindo Hello, world!" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -87,9 +89,17 @@ continuam disponíveis para leitores de tela e quando as imagens não carregarem
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=romeuwb&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img height="175" src="https://github-readme-stats-two-omega-43.vercel.app/api?username=romeuwb&show_icons=true&rank_icon=default&theme=tokyonight&locale=pt-br&hide=contribs&custom_title=Estat%C3%ADsticas%20do%20GitHub" alt="Estatísticas e rank do GitHub" />
   <img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=romeuwb&theme=tokyonight" alt="Linguagens mais usadas nos commits" />
 </div>
+
+### 🐍 Atividade de contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/romeuwb/romeuwb/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/romeuwb/romeuwb/output/github-contribution-grid-snake.svg" />
+  <img alt="Animação da cobra percorrendo o gráfico de contribuições do GitHub" src="https://raw.githubusercontent.com/romeuwb/romeuwb/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <div align="center">
 
